@@ -16,6 +16,10 @@ public class Calculator {
         int divide = divide(10, 2);
         System.out.println(divide);
 
+        Calculator.Factorial();
+
+        Calculator.Fibonacci();
+
     }
 
     public static int sum(int a,int b)
@@ -35,6 +39,26 @@ public class Calculator {
     public static int divide(int a,int b)
     {
         return a/b;
+    }
+
+    public static void Factorial() {
+        int a=10;
+        for(int i=9;i>0;i--)
+        {
+            a=a*i;
+        }
+        System.out.println("Factorial of 10 is "+a);
+    }
+
+    public static void Fibonacci(){
+        int first=0 , second=1 , third;
+        System.out.print("Fibonacci series of 10 is ");
+        for (int i = 0; i < 10; i++) {
+            System.out.print(first+" ");
+            third=first+second;
+            first=second;
+            second=third;
+        }
     }
 
 }
