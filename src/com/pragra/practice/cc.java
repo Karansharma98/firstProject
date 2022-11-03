@@ -45,6 +45,8 @@ public class cc {
         System.out.println("Spuuuuu");
         System.out.println("This is karan feature");
         System.out.println("This is pragragit  feature");
+        System.out.println("Suiiiiii");
+
     }
 }
 
