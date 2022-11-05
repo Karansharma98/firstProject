@@ -10,8 +10,7 @@ public class SwitchDemo {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter month number(1-12)");
         int monthNo = sc.nextInt();
-        long x=10;
-            switch (monthNo)
+        switch (monthNo)
             {
                 case 1:
 

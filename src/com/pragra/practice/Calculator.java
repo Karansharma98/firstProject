@@ -59,6 +59,7 @@ public class Calculator {
             first=second;
             second=third;
         }
+        System.out.println("Vivek changes");
     }
 
 }
