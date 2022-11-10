@@ -11,7 +11,6 @@ public class Day4 {
 static int x;
     public static void main(String[] args) {
 
-
         System.out.println("hello");
         System.out.println(x);
 int z;
