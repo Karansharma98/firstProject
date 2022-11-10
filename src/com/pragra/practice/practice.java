@@ -2,9 +2,9 @@ package com.pragra.practice;
 
 public class practice {
     public static void main(String[] args) {
-        int plan = 1;
-        plan = plan++ + --plan;
-        System.out.println(plan);
+        int plan1 = 1;
+        plan1 = plan1++ + --plan1;
+        System.out.println(plan1);
 
     }
 }
