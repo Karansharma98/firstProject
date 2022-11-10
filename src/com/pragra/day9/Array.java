@@ -100,6 +100,7 @@ public class Array {
             System.out.println("karan changes");
             System.out.println("PUSHPINDER CHANGES");           
             System.out.println("KARAN CHANGES");
+            System.out.println("NEW CHANGES");
 
         }
     }
