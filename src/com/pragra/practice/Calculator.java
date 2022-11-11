@@ -60,6 +60,7 @@ public class Calculator {
             second=third;
         }
         System.out.println("Vivek changes");
+        System.out.println("karan changes");
     }
 
 }
