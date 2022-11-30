@@ -1,5 +1,7 @@
 package com.pragra.day8;
 
+import com.pragra.day11.Student;
+
 public class ArrayDemo {
     public static void main(String[] args) {
 
@@ -22,6 +24,8 @@ public class ArrayDemo {
 
         for (int i = 0; i <10 ; i++) {
             System.out.println(marksOfAllStudents[i]);
+
+            Student st =new Student();
         }
     }
 }

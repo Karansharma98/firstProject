@@ -1,2 +1,4 @@
-package com.pragra.day13.Inheritance;public class TestMain {
+package com.pragra.day13.Inheritance;
+
+public class TestMain {
 }

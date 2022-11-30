@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/CalculatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/OopsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance/Vechile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/BMOBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/ScotiaBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/TDBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/BMOBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/ScotiaBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/TDBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitHubPracticeProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstJavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/cc.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Whileloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +81,16 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/karansharma/Desktop/Java Project/MyFirstJavaProject/src&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karansharma/Desktop/Java Project/MyFirstJavaProject/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pragra.day13" />
       <recent name="com.pragra.practice" />
     </key>
   </component>

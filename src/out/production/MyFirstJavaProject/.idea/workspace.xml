@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringPrac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/OopsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Puppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/CalculatorAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Oops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day13/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitHubPracticeProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstJavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstProject" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/cc.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Whileloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/practice.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HMkr1xPVHXbvtd6wrmxF2UMVPD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karansharma/Desktop/Java Project/MyFirstJavaProject/src&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.pragra.day13" />
+      <recent name="com.pragra.practice" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="" />
+      <created>1668102534312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668102534312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

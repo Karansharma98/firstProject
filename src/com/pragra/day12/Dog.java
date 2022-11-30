@@ -1,2 +1,7 @@
-package com.pragra.day12;public class dog {
+package com.pragra.day12;
+
+public class Dog extends Animal{
+    public void bark() {
+        System.out.println("barking");
+    }
 }

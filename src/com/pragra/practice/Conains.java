@@ -1,2 +1,5 @@
-package com.pragra.practice;public class Conains {
+package com.pragra.practice;
+
+public class Conains {
+
 }
