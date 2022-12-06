@@ -2,6 +2,7 @@ package com.pragra.Assignment.Inheritance;
 
 public class Bmw extends Car{
 
+    @Override
     public int price()
     {
         return 100000;

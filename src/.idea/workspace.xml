@@ -5,50 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/CalculatorAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringPrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/OopsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance/Vechile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/BMOBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/Location4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/ScotiaBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/TDBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance2/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/BMOBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/BankMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/ScotiaBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Inheritance3/TDBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitHubPracticeProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFirstJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstJavaProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstProject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Specification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/CreditScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Features.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Promotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Savings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance2/Visa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Fanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/PlayStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/Sprite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/day14/abstractPractice/WendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/AlarmClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/Pager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Interface2/Telephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/practice/cc.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Whileloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/practice/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Bmw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Inheritance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/Conains.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Conains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Inheritance/Bmw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Inheritance/Bmw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Inheritance/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Inheritance/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Array.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
