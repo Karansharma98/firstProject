@@ -7,8 +7,8 @@ public class GiftCards implements TimsMerchandise{
     }
 
     @Override
-    public void getPrice() {
-
+    public int getPrice() {
+        return 0;
     }
 
     @Override

@@ -6,6 +6,7 @@ public class TestMain {
 
     public static void main(String[] args) {
         int choice;
+        int total;
         Scanner sc = new Scanner(System.in);
         System.out.println("***** Tim Hortons Menu ******");
         System.out.println("1. Tim Merchandise");
@@ -27,9 +28,36 @@ public class TestMain {
             case 3:
                 break;
         }
+        System.out.println("Do you want to order again ?(y/n)..");
+        String ans =sc.next();
+        if(ans.equals("y"))
+        {
+            System.out.println("***** Tim Hortons Menu ******");
+            System.out.println("1. Tim Merchandise");
+            System.out.println("2. Tim Consumables");
+            System.out.println("3. Exit ");
+            System.out.println("Enter your choice : ");
+            choice = sc.nextInt();
+            switch (choice) {
+                case 1:
+                    main.menu1();
+
+                    break;
+
+                case 2:
+
+                    break;
+
+                case 3:
+                    break;
+            }
+        }
+
+
     }
 
-    public void menu1() {
+
+    public int menu1() {
         System.out.println("*** Tim Mercandise ***");
         System.out.println("1. Mugs");
         System.out.println("2. Coffee Powder");
@@ -41,13 +69,14 @@ public class TestMain {
         switch (choice) {
             case 1:
                 Mugs m = new Mugs();
-                m.getPrice();
-                m.toString1();
+                System.out.println(m.getPrice());
                 m.getFeatures();
-                break;
+                m.toString1();
 
         }
 
+
+        return choice;
     }
 
     public void secondLoop()

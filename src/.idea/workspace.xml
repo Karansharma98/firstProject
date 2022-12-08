@@ -5,26 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Bagel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/CofeePowder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Donut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/GiftCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/HockeyCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Mugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Sandwich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TimsConsumable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TimsMerchandise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Wrap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Mobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Mobile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Pager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Pager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Telephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Interface2/Telephone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Bagel.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Bagel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/CofeePowder.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/CofeePowder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Donut.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Donut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/GiftCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/GiftCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/HockeyCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/HockeyCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Mugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Mugs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Sandwich.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Sandwich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Wrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Wrap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

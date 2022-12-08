@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day10/StringPrac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/GetSet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/OopsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day11/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day12/Puppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/CalculatorAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/Oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day13/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitHubPracticeProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyFirstJavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstJavaProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../firstProject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/day8/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/practice/cc.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Whileloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/practice/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/practice.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>

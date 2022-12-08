@@ -11,9 +11,8 @@ public class Mugs implements TimsMerchandise{
     }
 
     @Override
-    public void getPrice() {
-        int a=5;
-        System.out.println("Price : " +a+ "$ " );
+    public int getPrice() {
+       return 5;
 
     }
 

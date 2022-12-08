@@ -7,9 +7,8 @@ public class Coffee implements TimsConsumable{
     }
 
     @Override
-    public void getPrice() {
-        System.out.println("Price : $ " );
-
+    public int getPrice() {
+        return 0;
     }
 
     @Override

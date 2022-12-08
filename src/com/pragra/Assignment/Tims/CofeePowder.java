@@ -7,9 +7,8 @@ public class CofeePowder implements TimsMerchandise {
     }
 
     @Override
-    public void getPrice() {
-        System.out.println("Price : 10$ " );
-
+    public int getPrice() {
+        return 0;
     }
 
     @Override

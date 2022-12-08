@@ -7,8 +7,8 @@ public class Donut implements TimsConsumable{
     }
 
     @Override
-    public void getPrice() {
-
+    public int getPrice() {
+        return 0;
     }
 
     @Override

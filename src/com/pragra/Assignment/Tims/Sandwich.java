@@ -7,10 +7,9 @@ public class Sandwich implements TimsConsumable{
     }
 
     @Override
-    public void getPrice() {
-
+    public int getPrice() {
+        return 0;
     }
-
     @Override
     public void getCalories() {
 

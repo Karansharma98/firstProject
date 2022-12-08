@@ -7,8 +7,8 @@ public class Bagel implements TimsConsumable{
     }
 
     @Override
-    public void getPrice() {
-        System.out.println("Price : 2$ " );
+    public int getPrice() {
+        return 0;
     }
 
     @Override
