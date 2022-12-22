@@ -12,7 +12,8 @@ public class Mugs implements TimsMerchandise{
 
     @Override
     public int getPrice() {
-       return 5;
+        int a=5;
+       return a;
 
     }
 

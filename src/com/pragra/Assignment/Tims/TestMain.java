@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class TestMain {
 
     public static void main(String[] args) {
+
+        int a=10;
+        int b=15;
+
         int choice;
         int total;
         Scanner sc = new Scanner(System.in);
@@ -66,16 +70,16 @@ public class TestMain {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your choice: ");
         int choice = sc.nextInt();
+        int total = 0;
         switch (choice) {
             case 1:
                 Mugs m = new Mugs();
-                System.out.println(m.getPrice());
                 m.getFeatures();
                 m.toString1();
-
+total= m.getPrice();
         }
 
-
+        System.out.println(total);
         return choice;
     }
 
@@ -89,6 +93,10 @@ public class TestMain {
         {
             case 1:
         }
+    }
+    public void total()
+    {
+        
     }
 }
 

@@ -4,7 +4,6 @@ public class Student implements Human ,Person{
     public static void main(String[] args) {
 
         Student s=new Student();
-        s.sleep();
         s.think();
         s.walk();
     }
@@ -23,4 +22,6 @@ public class Student implements Human ,Person{
     public void think() {
         System.out.println("thinking");
     }
+
+
 }
