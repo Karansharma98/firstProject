@@ -15,6 +15,7 @@ public class List {
         list.add(40);
         list.add(50);
         list.add(null);
+        list.add(null);
 
         System.out.println(list);
 

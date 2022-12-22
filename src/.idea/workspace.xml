@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f9b730-768c-4f37-b244-0a077868b2c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NOV_24_DEMO/CarInheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV_24_DEMO/CarInheritance/DriverClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV_24_DEMO/CarInheritance/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV_24_DEMO/CarInheritance/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOV_24_DEMO/CarInheritance/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Exceptions/License.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day15/collections/exceptionHandling/NumberLengthException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/day15/collections/exceptionHandling/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Hackerrank/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Collections/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/pragra/Assignment/Collections/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Mugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/Mugs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/Assignment/Tims/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Interfaces/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Tims/Mugs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Tims/Mugs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Tims/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/Assignment/Tims/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJavaProject/com/pragra/practice/Interfaces/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/Collections/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Collections/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pragra/practice/Collections/Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/pragra/practice/Collections/Set.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
